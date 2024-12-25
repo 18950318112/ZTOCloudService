@@ -4,9 +4,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/zto
+    url: jdbc:mysql://10.16.101.41:3306/zto
     username: zto
-    password: zsq123456
+    password: Zsq12345
   mvc:
     view:
       suffix: .html
