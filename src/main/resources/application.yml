@@ -4,7 +4,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://10.16.101.41:3306/zto
+    url: jdbc:mysql://sh-cynosdbmysql-grp-hp4nbys4.sql.tencentcdb.com:27512/ZTODB
     username: zto
     password: Zsq12345
   mvc:
